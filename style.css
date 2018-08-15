@@ -15,7 +15,7 @@ div {
 #header {
   height: 40px;
   width: 100%;
-  background-color: #ffcccc;
+  background-color: #black;
   position: fixed;
   z-index: 1;
 }
